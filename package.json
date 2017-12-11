@@ -1,0 +1,29 @@
+{
+  "name": "israel-train-schedule",
+  "version": "0.1.0",
+  "description": "Scrapes the Israeli Train schedule from their horrific site Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamatan/israel-train-schedule.git"
+  },
+  "keywords": [
+    "Train",
+    "Schedule",
+    "Israel",
+    "Rakevet"
+  ],
+  "author": "Adam Matan <adam@matan.name>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/adamatan/israel-train-schedule/issues"
+  },
+  "homepage": "https://github.com/adamatan/israel-train-schedule#readme",
+  "dependencies": {
+    "puppeteer": "^0.13.0",
+    "x-ray": "^2.3.2"
+  }
+}
