@@ -1,5 +1,8 @@
 {
   "name": "israel-train-schedule",
+  "bin": {
+    "rak": "./index.js"
+  },
   "version": "0.1.0",
   "description": "Scrapes the Israeli Train schedule from their horrific site Edit",
   "main": "index.js",
