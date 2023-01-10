@@ -27,6 +27,6 @@
   "homepage": "https://github.com/adamatan/israel-train-schedule#readme",
   "dependencies": {
     "puppeteer": "^0.13.0",
-    "x-ray": "^2.3.2"
+    "x-ray": "^2.3.4"
   }
 }
